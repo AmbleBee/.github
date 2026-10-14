@@ -28,7 +28,7 @@ Every place mission has coordinates, so the Hive can tell you how far away it is
 
 ## 💡 Share a mission
 
-Know a great date spot or a fun adventure? **[Submit it here](FORM-LINK-HERE)**. It takes about five minutes, and I read every one.
+Know a great date spot or a fun adventure? **[Submit it here]([FORM-LINK-HERE](https://forms.gle/F6gD8vJ5b59ExXyH7))**. It takes about five minutes, and I read every one.
 
 Comfortable with GitHub? Pull requests to [amblebee-missions](../amblebee-missions) are welcome too. Copy `_template.yaml`, fill it in, and the checker will tell you if anything's missing.
 
